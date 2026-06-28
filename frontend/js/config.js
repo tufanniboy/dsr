@@ -2,7 +2,7 @@
  * DSR Petrol Platform — Configuration
  */
 const CONFIG = {
-    API_BASE_URL: 'https://48b1a9662528ff.lhr.life/api/v1',
+    API_BASE_URL: 'https://dsr-backend-puoq.onrender.com/api/v1',
     SUPABASE_URL: '',       // Set from env
     SUPABASE_KEY: '',       // Set from env
     APP_NAME: 'DSR Petrol',
